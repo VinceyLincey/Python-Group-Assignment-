@@ -115,7 +115,7 @@ Assist in timetable management
 
 Record institutional events
 
-🔁 Data Flow
+Data Flow
 
 Actions performed by one role affect what others can access.
 
@@ -127,38 +127,5 @@ When admin updates courses → they become available for enrolment.
 
 When staff process withdrawals → records are moved accordingly.
 
-🧩 Key Functional Areas
-
-Authentication & role selection
-
-Account management
-
-Course management
-
-Lesson scheduling
-
-Enrolment handling
-
-Attendance tracking
-
-Grading & reporting
-
-Timetable organization
-
-Feedback collection
-
-Announcements system
-
-🚀 Future Improvements
-
-Possible enhancements include:
-
-migrating from file storage to a database
-
-real-time notifications
-
-automated report generation
-
-web or mobile interface
 
 improved search and filtering

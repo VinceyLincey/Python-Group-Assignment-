@@ -1,0 +1,19 @@
+course_name,lesson_number,lesson_title,lesson_duration,assignment_name,assignment_due_date,teacher,course_offering
+Python Programming,1,Object-Oriented Programming,6 weeks,Class & Object Assignment,2025-03-30,Prof. Smith,Diploma in software engineering
+Python Programming,2,Data Structures & Algorithms,6 weeks,Sorting Algorithms Task,2025-04-30,Prof. Lee,Diploma in software engineering
+Operating Systems,1,Process Management,6 weeks,CPU Scheduling Assignment,2025-03-30,Prof. Kim,Diploma in software engineering
+Operating Systems,2,File Systems & Storage,6 weeks,File System Simulation,2025-04-30,Prof. White,Diploma in software engineering
+Software Engineering Principles,1,Agile & Scrum Methodologies,6 weeks,Scrum Case Study,2025-03-30,Prof. Adams,Diploma in software engineering
+Software Engineering Principles,2,Software Testing & Debugging,6 weeks,Bug Fixing Exercise,2025-04-30,Prof. Johnson,Diploma in software engineering
+Mechanical Engineering Fundamentals,1,Statics & Dynamics,6 weeks,Force Analysis Project,2025-03-30,Prof. Clark,diploma in engineering
+Mechanical Engineering Fundamentals,2,Machine Elements & Design,6 weeks,Gear System Analysis,2025-04-30,Prof. Stevens,diploma in engineering
+Electrical Circuit Analysis,1,AC/DC Circuits,6 weeks,Circuit Design Task,2025-03-30,Prof. Patel,diploma in engineering
+Electrical Circuit Analysis,2,Electronic Components & Applications,6 weeks,Amplifier Circuit Project,2025-04-30,Prof. Baker,diploma in engineering
+Thermodynamics,1,Heat Transfer Mechanisms,6 weeks,Conduction & Convection Analysis,2025-03-30,Prof. Evans,diploma in engineering
+Thermodynamics,2,Energy Conversion & Efficiency,6 weeks,Power Plant Efficiency Report,2025-04-30,Prof. Green,diploma in engineering
+Psychology,1,Cognitive Psychology,6 weeks,Memory & Perception Study,2025-03-30,Prof. Harris,Diploma in human studies
+Psychology,2,Behavioral Psychology,6 weeks,Case Study on Conditioning,2025-04-30,Prof. Lewis,Diploma in human studies
+Cultural Anthropology,1,Social Structures & Norms,6 weeks,Cross-Cultural Comparison,2025-03-30,Prof. Walker,Diploma in human studies
+Cultural Anthropology,2,Human Evolution & Society,6 weeks,Anthropological Research,2025-04-30,Prof. Nelson,Diploma in human studies
+Ethics and Society,1,Moral Theories & Ethics,6 weeks,Ethical Dilemma Essay,2025-03-30,Prof. Carter,Diploma in human studies
+Ethics and Society,2,Ethics in Technology & AI,6 weeks,AI Ethics Case Study,2025-04-30,Prof. Young,Diploma in human studies

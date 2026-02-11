@@ -1,0 +1,12 @@
+name, student/teacher, id, resource name, timeslot, class
+Vince, Student, Tp069420, Projectors, Mon 11/5/2025 15:30-16:30, B-3-5
+Madanish, Student, Tp032245, Computers, Tue 11/8/2025 11:00-12:00, E-4-5
+Ho Rong Yu, Student, T5P012345, Computers, Wed 8/2/2025 12:00-13:00, D-5-4
+Andrew, Student, Tp032121, Books, Thu 7/2/2025 8:00-9:00, B-9-2
+Andrew, Student, Tp032121, Projectors, Fri 2/5/2025 13:00-14:00, E-3-7
+Prof. Smith, Teacher, HNH, Computers, Mon 4/5/2025 11:20-12:20, B-7-3
+Prof. Baker, Teacher, WNT, Books, Tue 5/2/2025 15:30-17:30, E-4-5
+Prof. Green, Teacher, PQR, Computers, Mon 5/2/2025 9:00-10:00, E-5-6
+Prof. Walker, Teacher, YTF, Projectors, Mon 7/5/2025 11:00-12:00, B-3-4
+Dr. Smith,Teacher,HNH,Projectors,Mon 1/5/2025 15:30-16:00,E-4-5
+Rong Yu,Student,tp012343,Books,Tue 5/1/2025 8:00-10:00,A-1-1

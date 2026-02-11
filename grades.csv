@@ -1,0 +1,37 @@
+student_name,course_name,lesson_title,assignment_name,assignment_grade,exam_grade,final_grade
+tp069420,Python Programming,Object-Oriented Programming,Class & Object Assignment,76,56,66.0
+tp069420,Python Programming,Data Structures & Algorithms,Sorting Algorithms Task,88,92,90.0
+tp069420,Operating Systems,Process Management,CPU Scheduling Assignment,53,46,49.5
+tp069420,Operating Systems,File Systems & Storage,File System Simulation,77,81,79.0
+tp069420,Software Engineering Principles,Agile & Scrum Methodologies,Scrum Case Study,83,48,65.5
+tp069420,Software Engineering Principles,Software Testing & Debugging,Bug Fixing Exercise,57,59,58.0
+tp032245,Mechanical Engineering Fundamentals,Statics & Dynamics,Force Analysis Project,80,45,62.5
+tp032245,Mechanical Engineering Fundamentals,Machine Elements & Design,Gear System Analysis,78,67,72.5
+tp032245,Electrical Circuit Analysis,AC/DC Circuits,Circuit Design Task,89,69,79.0
+tp032245,Electrical Circuit Analysis,Electronic Components & Applications,Amplifier Circuit Project,95,45,70.0
+tp032245,Thermodynamics,Heat Transfer Mechanisms,Conduction & Convection Analysis,83,59,71.0
+tp032245,Thermodynamics,Energy Conversion & Efficiency,Power Plant Efficiency Report,96,63,79.5
+tp021398,Psychology,Cognitive Psychology,Memory & Perception Study,89,98,93.5
+tp021398,Psychology,Behavioral Psychology,Case Study on Conditioning,60,95,77.5
+tp021398,Cultural Anthropology,Social Structures & Norms,Cross-Cultural Comparison,42,48,45.0
+tp021398,Cultural Anthropology,Human Evolution & Society,Anthropological Research,74,89,81.5
+tp021398,Ethics and Society,Moral Theories & Ethics,Ethical Dilemma Essay,42,51,46.5
+tp021398,Ethics and Society,Ethics in Technology & AI,AI Ethics Case Study,83,84,83.5
+tp090211,Python Programming,Object-Oriented Programming,Class & Object Assignment,42,54,48.0
+tp090211,Python Programming,Data Structures & Algorithms,Sorting Algorithms Task,48,61,54.5
+tp090211,Operating Systems,Process Management,CPU Scheduling Assignment,94,93,93.5
+tp090211,Operating Systems,File Systems & Storage,File System Simulation,75,75,75.0
+tp090211,Software Engineering Principles,Agile & Scrum Methodologies,Scrum Case Study,97,92,94.5
+tp090211,Software Engineering Principles,Software Testing & Debugging,Bug Fixing Exercise,81,56,68.5
+tp032121,Mechanical Engineering Fundamentals,Statics & Dynamics,Force Analysis Project,56,59,57.5
+tp032121,Mechanical Engineering Fundamentals,Machine Elements & Design,Gear System Analysis,66,52,59.0
+tp032121,Electrical Circuit Analysis,AC/DC Circuits,Circuit Design Task,85,42,63.5
+tp032121,Electrical Circuit Analysis,Electronic Components & Applications,Amplifier Circuit Project,98,58,78.0
+tp032121,Thermodynamics,Heat Transfer Mechanisms,Conduction & Convection Analysis,46,72,59.0
+tp032121,Thermodynamics,Energy Conversion & Efficiency,Power Plant Efficiency Report,88,70,79.0
+tp012343,Psychology,Cognitive Psychology,Memory & Perception Study,96,86,91.0
+tp012343,Psychology,Behavioral Psychology,Case Study on Conditioning,70,40,55.0
+tp012343,Cultural Anthropology,Social Structures & Norms,Cross-Cultural Comparison,81,91,86.0
+tp012343,Cultural Anthropology,Human Evolution & Society,Anthropological Research,73,79,76.0
+tp012343,Ethics and Society,Moral Theories & Ethics,Ethical Dilemma Essay,78,72,75.0
+tp012343,Ethics and Society,Ethics in Technology & AI,AI Ethics Case Study,74,78,76.0

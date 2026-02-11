@@ -1,0 +1,19 @@
+student_name,student_course,week_choice,day_choice,slot_choice,lesson_name,status
+tp069420,Python Programming,1,Monday,Slot 2,Object-Oriented Programming,attend
+tp069420,Python Programming,1,Wednesday,Slot 1,Data Structures & Algorithms,absent
+tp069420,Operating Systems,1,Tuesday,Slot 2,Process Management,absent
+tp069420,Operating Systems,1,Thursday,Slot 1,File Systems & Storage,attend
+tp069420,Software Engineering Principles,1,Monday,Slot 2,Agile & Scrum Methodologies,absent
+tp090211,Python Programming,1,Monday,Slot 3,Object-Oriented Programming,absent
+tp090211,Python Programming,1,Wednesday,Slot 3,Data Structures & Algorithms,attend
+tp090211,Operating Systems,1,Tuesday,Slot 1,Process Management,attend
+tp090211,Operating Systems,1,Thursday,Slot 1,File Systems & Storage,absent
+tp032245,Mechanical Engineering Fundamentals,1,Tuesday,Slot 1,Statics & Dynamics,absent
+tp032245,Mechanical Engineering Fundamentals,1,Thursday,Slot 3,Machine Elements & Design,attend
+tp032245,Electrical Circuit Analysis,1,Monday,Slot 2,AC/DC Circuits,attend
+tp032245,Electrical Circuit Analysis,1,Wednesday,Slot 2,Electronic Components & Applications,absent
+tp021398,Psychology,1,Monday,Slot 1,Cognitive Psychology,attend
+tp021398,Psychology,1,Wednesday,Slot 2,Behavioral Psychology,attend
+tp021398,Cultural Anthropology,1,Tuesday,Slot 3,Social Structures & Norms,attend
+tp021398,Cultural Anthropology,1,Thursday,Slot 3,Human Evolution & Society,absent
+tp012343,Ethics and Society,1,Friday,Slot 1,Moral Theories & Ethics,attend
